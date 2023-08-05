@@ -1,0 +1,17 @@
+.box{
+    width: 2cm;
+    height: 2cm;
+    font-size: 50px;
+    font-weight: bold;
+    box-shadow: 0 0 10px;
+    border-radius: 12px;
+    border-color: aliceblue;
+    margin: 5px;
+}
+.x{
+    color: red;
+
+}
+.o{
+    color: blue;
+}
